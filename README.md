@@ -1,1 +1,1 @@
-# SRGAN_face_recognition
+# Suoer resolution faces captured from video clips
