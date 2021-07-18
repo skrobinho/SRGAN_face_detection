@@ -1,1 +1,1 @@
-# Suoer resolution faces captured from video clips
+# Super resolution faces captured from video clips
