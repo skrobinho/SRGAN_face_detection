@@ -9,7 +9,6 @@ import numpy as np
 
 
 def main():
-
     # Defining constants
     KNOWN_FACES_DIR = "known_faces"
     TOLERANCE = 0.55
